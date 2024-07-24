@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SchoolWebsite/static/css/main.2a3e5eef.css",
+    "main.js": "/SchoolWebsite/static/js/main.a46fc14b.js",
+    "static/media/Giz.mp4": "/SchoolWebsite/static/media/Giz.d23dfa489c4caddcdfc6.mp4",
+    "static/media/Giz1.mp4": "/SchoolWebsite/static/media/Giz1.f14a9d65f50843958b76.mp4",
+    "static/media/gallery5.jpg": "/SchoolWebsite/static/media/gallery5.5ed012a321e81d3085b1.jpg",
+    "static/media/gallery3.jpg": "/SchoolWebsite/static/media/gallery3.ecbfc1bbf2f50c3f1ae1.jpg",
+    "static/media/gallery4.jpg": "/SchoolWebsite/static/media/gallery4.1e8e06a32a78cbfb21f1.jpg",
+    "static/media/science-exhibition-1200x600.jpg": "/SchoolWebsite/static/media/science-exhibition-1200x600.03f0f8b447f5b9a89712.jpg",
+    "static/media/gallery2.jpg": "/SchoolWebsite/static/media/gallery2.7f8e246d9176597a3533.jpg",
+    "static/media/gallery1.jpg": "/SchoolWebsite/static/media/gallery1.ba8904655b1c60593ff7.jpg",
+    "static/media/logo.png": "/SchoolWebsite/static/media/logo.b00adf595a2702471f1d.png",
+    "static/media/Sports-Day-612x306.jpg": "/SchoolWebsite/static/media/Sports-Day-612x306.57b80f5e448eb54dbc80.jpg",
+    "static/media/cultural.jpg": "/SchoolWebsite/static/media/cultural.33817da2821df45d752b.jpg",
+    "index.html": "/SchoolWebsite/index.html",
+    "main.2a3e5eef.css.map": "/SchoolWebsite/static/css/main.2a3e5eef.css.map",
+    "main.a46fc14b.js.map": "/SchoolWebsite/static/js/main.a46fc14b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a3e5eef.css",
+    "static/js/main.a46fc14b.js"
+  ]
+}
