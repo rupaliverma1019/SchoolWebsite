@@ -1,0 +1,96 @@
+/* General styles for the navbar */
+
+.navbar {
+    background-color: #f8f9fa;
+    /* Light background color */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+    position: sticky;
+    /* Make the navbar sticky */
+    top: 0;
+    /* Stick to the top of the page */
+    z-index: 1000;
+    /* Ensure it stays above other content */
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #007bff;
+    /* School name in a primary color */
+    text-transform: uppercase;
+    /* Uppercase text */
+}
+
+.navbar-brand:hover {
+    color: #0056b3;
+    /* Darker shade on hover */
+}
+
+.nav-link {
+    font-size: 1rem;
+    color: #343a40;
+    /* Dark text color */
+    padding: 0.5rem 1rem;
+    /* Padding for clickable area */
+}
+
+.nav-link:hover {
+    color: #007bff;
+    /* Primary color on hover */
+    background-color: #e9ecef;
+    /* Light background on hover */
+    border-radius: 5px;
+    /* Rounded corners */
+}
+
+.nav-link.active {
+    color: #ffffff;
+    background-color: #007bff;
+    /* Primary color for active link */
+    border-radius: 5px;
+    /* Rounded corners */
+}
+
+.navbar-toggler {
+    border: none;
+    /* Remove default border */
+}
+
+.navbar-toggler-icon {
+    color: #007bff;
+    /* Primary color for toggler icon */
+}
+
+
+/* Media queries for responsive behavior */
+
+@media (max-width: 991.98px) {
+    .navbar-nav {
+        text-align: center;
+        /* Center align links on smaller screens */
+    }
+    .nav-link {
+        margin-bottom: 0.5rem;
+        /* Space between links */
+    }
+}
+
+@media (max-width: 575.98px) {
+    .navbar-brand {
+        font-size: 1.25rem;
+        /* Smaller font size for brand */
+    }
+    .nav-link {
+        font-size: 0.875rem;
+        /* Smaller font size for links */
+    }
+}
+
+
+/* Custom styles for aligning components */
+
+.navbar-nav {
+    margin-left: auto;
+    /* Push navigation links to the right */
+}

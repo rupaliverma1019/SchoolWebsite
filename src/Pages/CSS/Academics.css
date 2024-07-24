@@ -1,0 +1,44 @@
+.academics-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #343a40;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.academic-card {
+    margin-bottom: 20px;
+    border: 1px solid #007bff;
+}
+
+.academic-card .card-title {
+    color: #007bff;
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    cursor: pointer;
+    /* Add cursor to indicate clickability */
+}
+
+.academic-card .card-title:hover {
+    color: #0056b3;
+    /* Darker shade on hover */
+}
+
+.academic-card .card-text {
+    font-size: 1rem;
+    color: #343a40;
+}
+
+.academic-card .card-text strong {
+    color: #007bff;
+}

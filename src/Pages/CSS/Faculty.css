@@ -1,0 +1,38 @@
+.faculty-container {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.faculty-header {
+    text-align: center;
+    color: #4caf50;
+    margin-bottom: 20px;
+}
+
+.faculty-card {
+    border: 2px solid #4caf50;
+    transition: transform 0.3s, box-shadow 0.3s;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+.faculty-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.faculty-name {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.faculty-position {
+    color: #f1c40f;
+}
+
+.faculty-qualification {
+    color: #16a085;
+}
+
+.faculty-experience {
+    color: #2980b9;
+}

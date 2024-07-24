@@ -1,0 +1,51 @@
+.admissions-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #007bff;
+    /* Primary color for headings */
+    margin-bottom: 30px;
+}
+
+.admissions-card {
+    margin-bottom: 20px;
+    border: 1px solid #007bff;
+    border-radius: 8px;
+    /* Rounded corners */
+}
+
+.admissions-card .card-title {
+    color: #007bff;
+    /* Primary color for titles */
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.admissions-card .card-text {
+    font-size: 1rem;
+    color: #343a40;
+    /* Dark text color */
+}
+
+.admissions-card .list-group-item {
+    background-color: #f8f9fa;
+    /* Light background for list items */
+    color: #343a40;
+    /* Dark text color */
+}
+
+.admissions-card .btn-primary {
+    background-color: #007bff;
+    /* Primary button color */
+    border: none;
+    /* Remove border */
+}
+
+.admissions-card .btn-primary:hover {
+    background-color: #0056b3;
+    /* Darker shade on hover */
+}
